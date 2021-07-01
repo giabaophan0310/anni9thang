@@ -14,8 +14,8 @@ function firstQuestion() {
 
     $('.content').hide();
     Swal.fire({
-        title: 'Hello cậu',
-        text: 'tớ là Tuyết Nhung của cậu nè',
+        title: 'He luuu Quân',
+        text: 'bé Tuyết Nhung của anh nè chớp mắt thì em đã lạc vào tim anh cũng đã được 9 tháng òi ❤',
         imageUrl: '../img/cuteCat.jpg',
         imageWidth: 300,
         imageHeight: 300,
@@ -96,7 +96,7 @@ $('#yes').click(function () {
     var audio = new Audio('../sound/tick.mp3');
     audio.play();
     Swal.fire({
-        title: 'Mình yêu nhau bao lâu rồi ta ???',
+        title: 'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu bé ❤',
         html: true,
         width: 900,
         padding: '3em',
@@ -122,7 +122,7 @@ $('#yes').click(function () {
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("../img/iput-bg.jpg")',
                 title: 'Bé biết mà ^^ Yêu anh 300.000',
-                text: "15 phút nữa có điều đặc biệt nhớ ra nhận nha anh!!!!!!",
+                text: "Gặp nhau anh sẽ có quà nha. Còn bây giờ thì thơm em đi nè :>",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
                     window.location = 'https://www.facebook.com/tuyetnhung191999';
