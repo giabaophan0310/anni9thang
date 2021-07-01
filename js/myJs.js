@@ -120,7 +120,7 @@ $('#yes').click(function () {
                 width: 900,
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("../img/iput-bg.jpg")',
-                title: 'Bé biết mà ^^ Yêu anh 300.000',
+                title: 'Cảm ơn anh vì đã đến. Yêu anh nhiều nhiều 😘😘',
                 text: "Gặp nhau anh sẽ có quà nha. Còn bây giờ thì thơm em đi nè :>",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
