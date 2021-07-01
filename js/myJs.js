@@ -18,7 +18,7 @@ function firstQuestion() {
         text: 'bé Tuyết Nhung của anh nè chớp mắt thì em đã lạc vào tim anh cũng đã được 9 tháng òi ❤',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#000000 url("iput-bg.jpg")',
+        background: '#000 url("iput-bg.jpg")',
         imageAlt: 'Custom image',
     }).then(function () {
         $('.content').show(200);
