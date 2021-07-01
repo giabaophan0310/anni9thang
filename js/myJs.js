@@ -16,7 +16,6 @@ function firstQuestion() {
     Swal.fire({
         title: 'He luuu Quân',
         text: 'bé Tuyết Nhung của anh nè chớp mắt thì em đã lạc vào tim anh cũng đã được 9 tháng òi ❤',
-        imageUrl: '../img/cuteCat.jpg',
         imageWidth: 300,
         imageHeight: 300,
         background: '#000000 url("iput-bg.jpg")',
@@ -73,7 +72,7 @@ $('#no').click(() => {
 // generate text in input
 function textGenerate() {
     var n = "";
-    var text = " Chín tháng rồi á. Cảm ơn vì anh đã đến <3";
+    var text = " Tại bé xinh đẹp tuyệt trần <33333333";
     var a = Array.from(text);
     var textVal = $('#txtReason').val() ? $('#txtReason').val() : "";
     var count = textVal.length;
